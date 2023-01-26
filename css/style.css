@@ -1,0 +1,14 @@
+* {
+    transition: all 0.3s;
+}
+
+body {
+    min-height: 98vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 300%;
+    font-family: calibri;
+    color: white;
+    background: linear-gradient(skyblue, white);
+}
